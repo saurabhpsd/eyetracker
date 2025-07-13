@@ -90,7 +90,7 @@ Extended dataset for generalization
 📚 References
 Includes research papers from ETRA 2024–2025, Behavior Research Methods, Applied Sciences, and more. See the [report](./ai final report.pdf) for full citations.
 
-👨‍💻 Contributors
+👨‍💻 Contributors:
 Saurabh Prasad
 Rohan
 Shruti Sinha
